@@ -6,7 +6,6 @@ Welcome to the Front-End Gym Website GitHub repository! This project showcases t
 Table of Contents
 Introduction
 Features
-Installation
 Usage
 Technologies Used
 Contributing
@@ -18,18 +17,6 @@ Features
 🏋️‍♂️ Interactive Interface: Navigate through different sections of the gym website, simulating a real user experience.
 🎨 Customizable Design: Easily modify the styles and colors to match your gym's branding.
 📱 Responsive Layout: The website is designed to be fully responsive across various devices and screen sizes.
-Installation
-Clone this repository to your local machine using:
-
-bash
-Copy code
-git clone https://github.com/your-username/front-end-gym-website.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd front-end-gym-website
-Open the index.html file in your web browser to explore the Front-End Gym Website!
 
 Usage
 Experience the immersive gym website by navigating through the different sections. This project serves as an educational resource for creating visually appealing and interactive web experiences.
