@@ -44,4 +44,3 @@ Create a pull request to the main branch of this repository.
 License
 This project is licensed under the MIT License, granting you the freedom to use and distribute the code. While not obligatory, giving credit is appreciated.
 
-Explore the code, dive into the Front-End Gym Website, and discover the art of creating captivating web interfaces! If you have questions or suggestions, don't hesitate to open an issue. Happy coding and stay fit!
